@@ -22,7 +22,7 @@ develop my security operations and investigation skills.
 - Windows Server, Active Directory and Group Policy
 - PowerShell administration and introductory Python
 - Security monitoring, log analysis and incident investigation
-- Microsoft SC-200 exam preparation
+- Security+ exam preparation
 
 ## 🛠️ Tools & Technologies
 
