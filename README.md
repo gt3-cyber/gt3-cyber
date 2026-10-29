@@ -1,4 +1,4 @@
-# Hi, I'm Gilbey Tablason 👋
+# Hi, I'm Gilbey👋
 
 ### IT Student | Aspiring Cybersecurity Professional | Home Lab Enthusiast
 
